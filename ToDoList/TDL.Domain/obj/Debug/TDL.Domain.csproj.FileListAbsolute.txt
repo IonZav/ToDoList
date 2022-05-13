@@ -1,0 +1,16 @@
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\TDL.Domain.dll.config
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\TDL.Domain.dll
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\TDL.Domain.pdb
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\EntityFramework.dll
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\EntityFramework.xml
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\obj\Debug\TDL.Domain.csprojAssemblyReference.cache
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\obj\Debug\TDL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\obj\Debug\TDL.Domain.csproj.CopyComplete
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\obj\Debug\TDL.Domain.dll
+C:\Users\ION\source\repos\ToDoList\TDL.Domain\obj\Debug\TDL.Domain.pdb
